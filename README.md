@@ -7,6 +7,7 @@ Bu proje, HTML ve CSS kullanılarak geliştirilmiş basit bir yemek tarifi websi
 - Farklı yemek tarifleri sayfaları
 - Kategori bölümü 
 
+🔗 **Live Demo:** [Recipe Website Live](https://aktenberkan.github.io/RecipeWebsite/)
 
 ## Kurulum ve Kullanım
 1. Bu repoyu klonla:
